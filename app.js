@@ -30,6 +30,16 @@ const applicationData = {
             "count": 15,
             "tags": ["Characters", "Fantasy", "RPG", "Creatures"]
         }
+         // Твоя новая коллекция
+    {
+        "name": "Post-Apocalyptic Environments",
+        "description": "Разрушенные города и заброшенные локации в стиле FAR: Lone Sails",
+        "folder": "post-apocalyptic-env",
+        "preview": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjMzMzMzU2Ii8+PHRleHQgeD0iNTAlIiB5PSI1MCUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTJweCIgZmlsbD0iIzAwZmY4OCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZHk9Ii4zZW0iPvCfj6E8L3RleHQ+PC9zdmc+",
+        "count": 18,
+        "tags": ["Post-Apocalypse", "Environment", "Destroyed", "Atmospheric"]
+    }
+]
     ],
     "premium_collections": [
         {
